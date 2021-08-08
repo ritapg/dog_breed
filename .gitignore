@@ -2,5 +2,5 @@
 *__pycache__
 data
 cv2
-src/features/dog_breed_check
-src/features/dog_breed_complete
+src/features/dog_breed_check.py
+src/features/dog_breed_complete.py
