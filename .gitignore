@@ -1,0 +1,6 @@
+.idea
+*__pycache__
+data
+cv2
+src/features/dog_breed_check
+src/features/dog_breed_complete
